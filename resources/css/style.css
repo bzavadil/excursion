@@ -1,0 +1,36 @@
+* {
+  font-family: Veranda;
+  background-color: Black;
+  text-align: center;
+}
+
+#toptitle {
+  font-weight: Normal;
+  font-size: 50px;
+  color: White;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.maintitles {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+#maintext {
+  font-size: 21px;
+  color: Gray;
+}
+
+#video {
+  pointer-events: none;
+}
+
+#copyright {
+  text-align: right;
+  color: Gray;
+}
