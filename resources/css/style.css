@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Veranda;
   background-color: Black;
   text-align: center;
@@ -10,7 +10,8 @@
   color: White;
 }
 
-a {
+a,
+#download {
   color: Aquamarine;
   font-size: 16px;
 }
@@ -31,6 +32,6 @@ a {
 }
 
 #copyright {
-  text-align: right;
+  text-align: right !important;
   color: Gray;
 }
